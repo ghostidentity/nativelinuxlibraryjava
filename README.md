@@ -8,7 +8,7 @@ Instructions:
 
 1. Create header file from Java class
 
-javac -h . TestJNIString.java
+javac -h . Verification.java
 
 2. Generate sharedObject -- Files can be located at resources folder when you  unzip this project
 
